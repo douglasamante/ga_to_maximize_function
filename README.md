@@ -47,9 +47,9 @@ Maybe, the use of this file in an API could do not works.
 
 You will see the results after the generation quantity that is equal to 50, in this case. Remember this case, the out would be in binary format: 
 
-> Decimal Value to out = + 537
+> Decimal Value to function result = + 537
 
-> Binary Value to out =  + 10100
+> Binary Value to x  =  + 10100
 
 You can do new changes to understood what is happiness and, good luck!
 
